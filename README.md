@@ -1,5 +1,5 @@
 # MakeSRTYellow
-Change the SRT subtitles color to yellow in a given directory for better subtitle visibility
+Change the SRT subtitles color to yellow in a given directory for better subtitle visibility. Optimized for HandBreak subtitle hardcoding
 
 # How to use it?
 1. Make sure that the **SRT files** are encoded with **UTF-8**.
