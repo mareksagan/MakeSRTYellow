@@ -26,9 +26,9 @@ for file_name in file_list:
                 if i < 2:
                     new_srt_file.write(line[i])
                 else:
-                    new_srt_file.write("<font color=#ffff54>")
+                    new_srt_file.write("<b><font size=38 color=#ffff00>")
                     new_srt_file.write(line[i])
-                    new_srt_file.write("</font>")
+                    new_srt_file.write("</font></b>")
                 new_srt_file.write('\n')
             new_srt_file.write('\n')
     processed_file_count += 1
